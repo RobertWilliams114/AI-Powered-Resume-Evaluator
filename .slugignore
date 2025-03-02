@@ -1,0 +1,15 @@
+# .slugignore
+*.log
+*.csv
+*.xlsx
+*.pdf
+*.pyc
+*.pkl
+__pycache__/
+node_modules/
+client/  # If client is pre-built and unnecessary for Heroku
+datasets/
+models/
+*.tar.gz
+*.whl
+*.zip

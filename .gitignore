@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+AI_Powered_Resume_Analyzer/
+# Ignore Node.js modules
+client/node_modules/
+client/dist/
+
+# Ignore build artifacts
+client/
+
+# Ignore cache files
+*.pyc
+__pycache__/
+*.log
+
+.env
+
+# Git-related artifacts
+.DS_Store
