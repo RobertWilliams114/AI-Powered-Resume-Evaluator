@@ -1,12 +1,12 @@
 # AI-Powered Resume Evaluator
 
-An AI-powered tool designed to evaluate resumes and provide insights on how well they match specific job descriptions. This project leverages machine learning and natural langauge processing (NLP) techniques to analyze resumes and geneate detailed feedback.
+An AI-powered tool designed to evaluate resumes and provide insights on how well they match specific job descriptions. This project leverages machine learning and natural language processing (NLP) techniques to analyze resumes and generate detailed feedback.
 
 ## Features
 - **Resume Parsing:** Automatically extracts key information from resumes.
 - **Job Matching:** Compares resume content with job requirements.
 - **Customizable Evaluation:** Adjust evaluation criteria to suit different roles.
-- **Detailed Feedback:** Generates scorese and recommendations for improvement.
+- **Detailed Feedback:** Generates scores and recommendations for improvement.
 
 ## Technologies Used
 - Python 3.7+
@@ -44,12 +44,12 @@ Try out a live demo of the evaluator [here](https://aipoweredresumeevaluator.ver
 
 ## Usage
 
-1. Configure evaluation parameters in the provided configuation file.
+1. Configure evaluation parameters in the provided configuration file.
 2. Start the application:
    ```bash
    python app.py
    ```
-3. Access the web interface by navigating to http://localhost:5000 (Or your prefered port)
+3. Access the web interface by navigating to http://localhost:5000 (Or your preferred port)
    
 ## Thank You
 Thank you for reading. I hope that you learned something new or gained something of value.
