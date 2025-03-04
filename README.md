@@ -11,7 +11,7 @@ An AI-powered tool designed to evaluate resumes and provide insights on how well
 ## Technologies Used
 - Python 3.7+
 - Machine Learning Libraries (e.g., scikit-learn, TensorFlow, or PyTorch)
-- NLP Tools (e.g., Scpacy, NLTK)
+- NLP Tools (e.g., Spacy, NLTK)
 - Web Framework (Flask or Django), if a web interface is implemented)
 
 ## Demo
