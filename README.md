@@ -1,13 +1,11 @@
 ## AI-Powered Resume Evaluator
 
-![Evaluator Demo](./client/src/assets/evaluator.png)
-
 # AI-Powered Resume Evaluator
 
 An intelligent tool that analyzes resumes against job descriptions using advanced NLP and machine learning techniques. Delivers actionable feedback to help candidates optimize their applications.
 
 ### 🎬 Live Demo
-[Try the evaluator live](https://aipoweredresumeevaluator.vercel.app)
+[Try the evaluator live](https://aipoweredresumeevaluator.vercel.app) *if it does not work, it has been disabled to cut costs*
 
 ---
 
