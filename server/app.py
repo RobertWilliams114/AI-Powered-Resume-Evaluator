@@ -12,4 +12,4 @@ def home():
 app.register_blueprint(resume_blueprint)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5200)
+    app.run(debug=False, port=5200)
